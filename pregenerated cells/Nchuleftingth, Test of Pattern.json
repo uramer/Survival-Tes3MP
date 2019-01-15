@@ -1,0 +1,39 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":["249561-0","249562-0"],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1547248160,
+    "description":"Nchuleftingth, Test of Pattern"
+  },
+  "lastVisit":{
+    "urm":1547248162
+  },
+  "recordLinks":[],
+  "objectData":{
+    "249561-0":{
+      "refId":"steam_nchuleftingth_02",
+      "state":false
+    },
+    "249562-0":{
+      "refId":"steam_nchuleftingth_01",
+      "state":false
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["317995-0"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1547248111,
+    "description":"Lonely Shipwreck, Cabin"
+  },
+  "lastVisit":{
+    "urm":1547248112
+  },
+  "recordLinks":[],
+  "objectData":{
+    "317995-0":{
+      "refId":"com_chest_02_l_weap_01",
+      "inventory":[{
+          "refId":"chitin spear",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    }
+  }
+}

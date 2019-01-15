@@ -1,0 +1,53 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":["172850-0","172848-0","172852-0","297461-0","289104-0","397559-0"],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1547248239,
+    "description":"-2, -9"
+  },
+  "lastVisit":[],
+  "recordLinks":[],
+  "objectData":{
+    "289104-0":{
+      "refId":"chargen_ship_trapdoor",
+      "state":false
+    },
+    "172852-0":{
+      "refId":"chargen dock guard",
+      "state":false
+    },
+    "397559-0":{
+      "refId":"chargen_plank",
+      "state":false
+    },
+    "297461-0":{
+      "refId":"chargen_crate_01_misc01",
+      "state":false
+    },
+    "172850-0":{
+      "refId":"chargen boat",
+      "state":false
+    },
+    "172848-0":{
+      "refId":"chargen boat guard 1",
+      "state":false
+    }
+  }
+}

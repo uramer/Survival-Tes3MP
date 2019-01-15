@@ -1,0 +1,53 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["313206-0","313208-0","313211-0","390013-0"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1547248005,
+    "description":"Derelict Shipwreck, Lower Level"
+  },
+  "lastVisit":{
+    "urm":1547248005
+  },
+  "recordLinks":[],
+  "objectData":{
+    "390013-0":{
+      "refId":"slaughterfish_small",
+      "inventory":[]
+    },
+    "313206-0":{
+      "refId":"crate_01_de_weapons",
+      "inventory":[]
+    },
+    "313211-0":{
+      "refId":"barrel_02_floater",
+      "inventory":[]
+    },
+    "313208-0":{
+      "refId":"crate_02_iron_weapons",
+      "inventory":[{
+          "refId":"iron shortsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    }
+  }
+}

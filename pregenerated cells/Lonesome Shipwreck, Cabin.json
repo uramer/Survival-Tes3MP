@@ -1,0 +1,35 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["318112-0"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1547248113,
+    "description":"Lonesome Shipwreck, Cabin"
+  },
+  "lastVisit":{
+    "urm":1547248113
+  },
+  "recordLinks":[],
+  "objectData":{
+    "318112-0":{
+      "refId":"de_p_desk_01",
+      "inventory":[]
+    }
+  }
+}

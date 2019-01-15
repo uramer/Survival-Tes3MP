@@ -1,0 +1,42 @@
+{
+  "packets":{
+    "actorList":["0-1907"],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":["0-1907"],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1547248364,
+    "description":"Vivec, Puzzle Canal, Level 1"
+  },
+  "lastVisit":{
+    "urm":1547248364
+  },
+  "recordLinks":[],
+  "objectData":{
+    "0-1907":{
+      "refId":"rat",
+      "location":{
+        "posX":2510.9985351563,
+        "posZ":160.00018310547,
+        "posY":2111.9997558594,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":0
+      }
+    }
+  }
+}

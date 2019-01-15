@@ -1,0 +1,71 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["318141-0","318143-0","318144-0","318145-0"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1547248308,
+    "description":"Unchartered Shipwreck, Cabin"
+  },
+  "lastVisit":{
+    "urm":1547248309
+  },
+  "recordLinks":[],
+  "objectData":{
+    "318145-0":{
+      "refId":"com_sack_02_gold_100",
+      "inventory":[{
+          "refId":"gold_001",
+          "count":100,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "318143-0":{
+      "refId":"com_sack_01_moon sugar5",
+      "inventory":[{
+          "refId":"ingred_moon_sugar_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "318141-0":{
+      "refId":"com_chest_02_l_weap_01",
+      "inventory":[{
+          "refId":"wooden staff",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "318144-0":{
+      "refId":"com_sack_01_moon sugar5",
+      "inventory":[{
+          "refId":"ingred_moon_sugar_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    }
+  }
+}

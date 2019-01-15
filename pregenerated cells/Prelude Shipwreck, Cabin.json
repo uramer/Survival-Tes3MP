@@ -1,0 +1,41 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["411026-0"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1547248186,
+    "description":"Prelude Shipwreck, Cabin"
+  },
+  "lastVisit":{
+    "urm":1547248187
+  },
+  "recordLinks":[],
+  "objectData":{
+    "411026-0":{
+      "refId":"com_sack_02_gold_100",
+      "inventory":[{
+          "refId":"gold_001",
+          "count":100,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    }
+  }
+}

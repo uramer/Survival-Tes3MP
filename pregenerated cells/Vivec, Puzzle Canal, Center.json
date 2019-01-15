@@ -1,0 +1,51 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["471816-0","209730-0"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1547248364,
+    "description":"Vivec, Puzzle Canal, Center"
+  },
+  "lastVisit":{
+    "urm":1547248364
+  },
+  "recordLinks":[],
+  "objectData":{
+    "209730-0":{
+      "refId":"dremora_ttpc",
+      "inventory":[{
+          "refId":"ingred_daedras_heart_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "471816-0":{
+      "refId":"com_chest_02_puzzlecana",
+      "inventory":[{
+          "refId":"silver longsword",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "packets":{
+    "actorList":["382347-0"],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["382347-0"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":["382347-0"],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":["382347-0"],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1547248105,
+    "description":"Kogoruhn, Temple of Fey"
+  },
+  "lastVisit":{
+    "urm":1547248105
+  },
+  "recordLinks":[],
+  "objectData":{
+    "382347-0":{
+      "refId":"dagoth uvil",
+      "location":{
+        "posX":252.03155517578,
+        "posZ":-191,
+        "posY":-568.21539306641,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":0
+      },
+      "stats":{
+        "healthCurrent":280,
+        "magickaCurrent":340,
+        "healthModified":280,
+        "fatigueBase":600,
+        "fatigueModified":600,
+        "healthBase":280,
+        "magickaModified":340,
+        "magickaBase":340,
+        "fatigueCurrent":600
+      },
+      "inventory":[{
+          "refId":"amulet of 6th house",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    }
+  }
+}

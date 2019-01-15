@@ -1,0 +1,45 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":["297463-0","297464-0","297466-0","297465-0"],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1547248241,
+    "description":"-2, -10"
+  },
+  "lastVisit":[],
+  "recordLinks":[],
+  "objectData":{
+    "297465-0":{
+      "refId":"chargenbarrel_01_drinks",
+      "state":false
+    },
+    "297464-0":{
+      "refId":"chargen_barrel_01",
+      "state":false
+    },
+    "297466-0":{
+      "refId":"chargen_barrel_02",
+      "state":false
+    },
+    "297463-0":{
+      "refId":"chargen_chest_02_empty",
+      "state":false
+    }
+  }
+}

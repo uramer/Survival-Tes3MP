@@ -1,0 +1,39 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["158970-0","158972-0"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1547248381,
+    "description":"Vivec, St. Delyn Waist North-Two"
+  },
+  "lastVisit":{
+    "urm":1547248381
+  },
+  "recordLinks":[],
+  "objectData":{
+    "158972-0":{
+      "refId":"de_r_closet_01_empty",
+      "inventory":[]
+    },
+    "158970-0":{
+      "refId":"de_r_chest_01_empty",
+      "inventory":[]
+    }
+  }
+}

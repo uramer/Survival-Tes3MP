@@ -1,0 +1,35 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["317971-0"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1547248006,
+    "description":"Desolate Shipwreck, Cabin"
+  },
+  "lastVisit":{
+    "urm":1547248007
+  },
+  "recordLinks":[],
+  "objectData":{
+    "317971-0":{
+      "refId":"de_p_desk_01",
+      "inventory":[]
+    }
+  }
+}
